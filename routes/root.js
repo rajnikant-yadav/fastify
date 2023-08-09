@@ -1,3 +1,4 @@
+// This is route folder
 import fastifycrudcontroller from "../controller/fastifycrudcontroller.js"
 async function router(fastify,option){
 
